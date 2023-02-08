@@ -9,6 +9,12 @@
 
 ## Released
 
+## [1.0.0] - 2022-02-08
+
+### Added
+
+- publish v1.0.0 stable version @mxismean
+
 ## [0.1.3] - 2022-02-08
 
 ### Fixed
