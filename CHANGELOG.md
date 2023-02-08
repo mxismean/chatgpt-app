@@ -9,6 +9,12 @@
 
 ## Released
 
+## [0.1.3] - 2022-02-08
+
+### Fixed
+
+- github workflows update @mxismean
+
 ## [0.1.2] - 2022-02-08
 
 ### Fixed
