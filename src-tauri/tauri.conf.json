@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "chatgpt-tauri",
+    "productName": "chatgpt-app",
     "version": "0.1.0"
   },
   "tauri": {
