@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "chatgpt-app",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "tauri": {
     "allowlist": {
@@ -69,11 +69,12 @@
     },
     "windows": [
       {
-        "fullscreen": false,
-        "height": 600,
-        "resizable": true,
         "title": "ChatGPT",
-        "width": 800
+        "width": 800,
+        "height": 600,
+        "fullscreen": false,
+        "resizable": true,
+        "theme": "Dark"
       }
     ]
   }
