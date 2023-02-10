@@ -9,6 +9,13 @@
 
 ## Released
 
+## [1.0.2] - 2022-02-10
+
+### Added
+
+- app 安装后的名称 chatgpt-app -> ChatGPT @mxismean
+- 更新 readme，添加 releas 安装包超链接 @mxismean
+
 ## [1.0.1] - 2022-02-09
 
 ### Added
