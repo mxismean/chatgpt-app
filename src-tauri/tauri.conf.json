@@ -7,8 +7,8 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "chatgpt-app",
-    "version": "1.0.1"
+    "productName": "ChatGPT",
+    "version": "1.0.2"
   },
   "tauri": {
     "allowlist": {
